@@ -1,4 +1,4 @@
-## Apresentação = [[Olá !],[Me chamo Lucas Warley]]
+## Apresentação = [[Opá !],[Me chamo Lucas Warley]]
 - 🌱 Atualmente Aprendendo .NET
 - 🎓 Técnico em informática
 - 📘 Cursando ciência da computação
