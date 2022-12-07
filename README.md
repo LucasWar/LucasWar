@@ -1,12 +1,18 @@
-## Apresentação = [[Opá !],[Me chamo Lucas Warley]]
-- 🌱 Atualmente Aprendendo .NET
+## Apresentação = [[Olá !],[Me chamo Lucas Warley]]
+- 🌱 Atualmente Aprendendo NODE.JS, REACT
 - 🎓 Técnico em informática
 - 📘 Cursando ciência da computação
+- Áreas de interesse<br>
+  *Data science<br>
+  *Desenvolvimento web<br>
 <div align="center" background-color="blue">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50em"/> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50em"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50em"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50em"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50em"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50em"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50em"/>
 </div>
 
 
