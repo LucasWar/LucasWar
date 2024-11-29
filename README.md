@@ -1,6 +1,5 @@
 ## Apresentação = [[Olá !],[Me chamo Lucas Warley]]
 - 🌱 Atualmente Aprendendo NODE.JS, REACT e Machine learning
-- 🎓 Técnico em informática
 - 📘 Cursando ciência da computação
 - Áreas de interesse<br>
   *Data science<br>
