@@ -2,7 +2,7 @@
 
 ### 💻 Desenvolvedor Full Stack | React & Node.js Ecosystem
 
-Sou um **Desenvolvedor de Software Full Stack** com cerca de **2 anos de experiência prática**. Meu foco é criar aplicações web e mobile escaláveis, performáticas e bem arquitetadas.
+Sou um **Desenvolvedor de Software Full Stack** com cerca de **4 anos de experiência prática**. Meu foco é criar aplicações web e mobile escaláveis, performáticas e bem arquitetadas.
 
 Tenho vivência no ciclo completo de desenvolvimento, desde a arquitetura de banco de dados até o front-end interativo. Atualmente, combino minha base em **Ciência da Computação** com uma paixão por **Clean Code** e arquitetura de software.
 
@@ -29,16 +29,6 @@ Minha especialidade é o ecossistema JavaScript/TypeScript, mas transito bem por
 | **Back-end** | Node.js, NestJS, Express, PHP |
 | **Bancos de Dados** | PostgreSQL, MySQL, MongoDB |
 | **Práticas & Tools** | Git, Scrum, Trello/Jira, Clean Code, SOLID, Code Review |
-
----
-
-### 🏆 Experiências & Projetos Chave
-
-🚀 **Sistemas de Gestão (ERP)**
-Participei da construção de um sistema ERP do zero, atuando em decisões arquiteturais críticas, modelagem de dados e implementação de regras de negócio complexas.
-
-📱 **Apps em Produção**
-Atuei no desenvolvimento e manutenção de um aplicativo acadêmico utilizado por usuários reais, focando em performance, estabilidade e melhoria da UX.
 
 ---
 
